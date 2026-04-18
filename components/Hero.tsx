@@ -12,7 +12,7 @@ export default function Hero() {
         className="absolute inset-0 bg-cover bg-center bg-no-repeat"
         style={{
           backgroundImage:
-            "url('https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1920&q=90')",
+            "url('https://images.unsplash.com/photo-1590073844006-33379778ae09?w=1920&q=90')",
         }}
       />
       <div className="absolute inset-0 bg-gradient-to-b from-deep-blue/70 via-deep-blue/50 to-deep-blue/80" />

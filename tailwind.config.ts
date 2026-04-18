@@ -10,13 +10,13 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        beige: "#F5F5DC",
-        "beige-light": "#FAFAF0",
-        "deep-blue": "#1E3A5F",
-        "deep-blue-dark": "#152A47",
-        gold: "#C9A96E",
-        "gold-light": "#D4B78A",
-        "gold-dark": "#A8834A",
+        beige: "#F5E6D3",
+        "beige-light": "#FAF0E6",
+        "deep-blue": "#2C1810",
+        "deep-blue-dark": "#1E0F08",
+        gold: "#C4622D",
+        "gold-light": "#D4845A",
+        "gold-dark": "#A0491E",
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
