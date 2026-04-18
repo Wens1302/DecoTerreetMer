@@ -71,9 +71,7 @@ export default function ServiceCard({
           <li key={feature} className="flex items-center gap-2">
             <CheckCircle2
               size={14}
-              className={`flex-shrink-0 ${
-                variant === "featured" ? "text-gold" : "text-gold"
-              }`}
+              className="flex-shrink-0 text-gold"
             />
             <span
               className={`text-xs ${
