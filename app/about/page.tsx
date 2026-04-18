@@ -60,7 +60,7 @@ export default function AboutPage() {
           className="absolute inset-0 bg-cover bg-center"
           style={{
             backgroundImage:
-              "url('https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?w=1920&q=80')",
+              "url('https://images.unsplash.com/photo-1539650116574-75c0c6d04b47?w=1920&q=80')",
           }}
         />
         <div className="absolute inset-0 bg-deep-blue/70" />
@@ -129,7 +129,7 @@ export default function AboutPage() {
             >
               <div className="relative h-96 rounded-lg overflow-hidden">
                 <Image
-                  src="https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=800&q=80"
+                  src="https://images.unsplash.com/photo-1539650116574-75c0c6d04b47?w=800&q=80"
                   alt="Notre agence Terre et Mer"
                   fill
                   className="object-cover"
@@ -201,7 +201,7 @@ export default function AboutPage() {
               <div className="grid grid-cols-2 gap-4">
                 <div className="relative h-48 rounded-lg overflow-hidden">
                   <Image
-                    src="https://images.unsplash.com/photo-1615529162924-f8605388461d?w=800&q=80"
+                    src="https://images.unsplash.com/photo-1590073844006-33379778ae09?w=800&q=80"
                     alt="Design process"
                     fill
                     className="object-cover"
@@ -210,7 +210,7 @@ export default function AboutPage() {
                 </div>
                 <div className="relative h-48 rounded-lg overflow-hidden mt-8">
                   <Image
-                    src="https://images.unsplash.com/photo-1600210492493-0946911123ea?w=800&q=80"
+                    src="https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?w=800&q=80"
                     alt="Interior design"
                     fill
                     className="object-cover"
@@ -219,7 +219,7 @@ export default function AboutPage() {
                 </div>
                 <div className="relative h-48 rounded-lg overflow-hidden">
                   <Image
-                    src="https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=800&q=80"
+                    src="https://images.unsplash.com/photo-1553361371-9b22f78e8b1d?w=800&q=80"
                     alt="Renovation"
                     fill
                     className="object-cover"
@@ -228,7 +228,7 @@ export default function AboutPage() {
                 </div>
                 <div className="relative h-48 rounded-lg overflow-hidden mt-8">
                   <Image
-                    src="https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80"
+                    src="https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&q=80"
                     alt="Luxury interior"
                     fill
                     className="object-cover"

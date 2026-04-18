@@ -22,7 +22,7 @@ export default function ServicesPage() {
       <section className="relative h-72 md:h-96 flex items-end overflow-hidden">
         <div
           className="absolute inset-0 bg-cover bg-center"
-          style={{ backgroundImage: "url('https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=1920&q=80')" }}
+          style={{ backgroundImage: "url('https://images.unsplash.com/photo-1553361371-9b22f78e8b1d?w=1920&q=80')" }}
         />
         <div className="absolute inset-0 bg-deep-blue/70" />
         <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-12 w-full">

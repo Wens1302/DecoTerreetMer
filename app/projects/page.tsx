@@ -21,7 +21,7 @@ export default function ProjectsPage() {
       <section className="relative h-72 md:h-96 flex items-end overflow-hidden">
         <div
           className="absolute inset-0 bg-cover bg-center"
-          style={{ backgroundImage: "url('https://images.unsplash.com/photo-1600210492493-0946911123ea?w=1920&q=80')" }}
+          style={{ backgroundImage: "url('https://images.unsplash.com/photo-1590073844006-33379778ae09?w=1920&q=80')" }}
         />
         <div className="absolute inset-0 bg-deep-blue/70" />
         <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-12 w-full">

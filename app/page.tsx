@@ -120,14 +120,14 @@ export default function Home() {
               {
                 title: "Appartement Malabata",
                 before: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80",
-                after: "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=800&q=80",
-                description: "Rénovation complète face à la mer, du sol au plafond.",
+                after: "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&q=80",
+                description: "Rénovation complète face à la mer, fusion moderne et touches traditionnelles.",
               },
               {
                 title: "Villa Contemporaine",
                 before: "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800&q=80",
-                after: "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80",
-                description: "Transformation luxe avec matériaux nobles sélectionnés.",
+                after: "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?w=800&q=80",
+                description: "Transformation alliant design contemporain et artisanat marocain.",
               },
             ].map((item, i) => (
               <motion.div

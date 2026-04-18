@@ -30,14 +30,14 @@ export const projects: Project[] = [
     location: "Tanger, Maroc",
     year: "2024",
     description:
-      "Transformation complète d'une villa avec une touche de luxe minimaliste. Mélange harmonieux de matériaux naturels et de lignes épurées pour créer un espace raffiné.",
+      "Transformation complète d'une villa avec une fusion harmonieuse entre modernité et touches marocaines traditionnelles. Matériaux naturels, zellige artisanal et lignes épurées se mêlent pour un résultat raffiné.",
     image:
-      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80",
+      "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?w=800&q=80",
     beforeImage:
-      "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800&q=80",
     afterImage:
-      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80",
-    tags: ["Luxe", "Minimaliste", "Villa"],
+      "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?w=800&q=80",
+    tags: ["Moderne Mixé", "Zellige", "Villa"],
     featured: true,
   },
   {
@@ -47,14 +47,14 @@ export const projects: Project[] = [
     location: "Malabata, Tanger",
     year: "2024",
     description:
-      "Rénovation totale d'un appartement face à la mer avec des matériaux nobles et une palette de couleurs inspirée de l'horizon marin.",
+      "Rénovation totale d'un appartement face à la mer alliant design contemporain et touches de décoration traditionnelle marocaine. Palette terracotta et matériaux nobles pour une ambiance chaleureuse et élégante.",
     image:
-      "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=800&q=80",
+      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&q=80",
     beforeImage:
-      "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80",
+      "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80",
     afterImage:
-      "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=800&q=80",
-    tags: ["Vue mer", "Rénovation", "Appartement"],
+      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&q=80",
+    tags: ["Vue mer", "Rénovation", "Moderne Mixé"],
     featured: true,
   },
   {
@@ -64,10 +64,10 @@ export const projects: Project[] = [
     location: "Médina, Tanger",
     year: "2023",
     description:
-      "Fusion entre l'architecture traditionnelle marocaine et le design contemporain pour ce riad au cœur de la médina.",
+      "Restauration fidèle de ce riad traditionnel au cœur de la médina : moucharabieh, arches andalouses, zellige coloré et fontaine centrale pour une immersion dans le patrimoine architectural marocain.",
     image:
-      "https://images.unsplash.com/photo-1615529162924-f8605388461d?w=800&q=80",
-    tags: ["Traditionnel", "Riad", "Fusion"],
+      "https://images.unsplash.com/photo-1539650116574-75c0c6d04b47?w=800&q=80",
+    tags: ["Traditionnel", "Riad", "Patrimoine"],
     featured: true,
   },
   {
@@ -77,10 +77,10 @@ export const projects: Project[] = [
     location: "Cap Spartel, Tanger",
     year: "2023",
     description:
-      "Aménagement d'un penthouse avec vue panoramique sur l'Atlantique. Chaque pièce raconte une histoire entre terre et mer.",
+      "Aménagement d'un penthouse avec vue panoramique sur l'Atlantique. Mélange audacieux de mobilier contemporain et d'artisanat marocain pour un espace entre modernité et tradition.",
     image:
       "https://images.unsplash.com/photo-1600210492493-0946911123ea?w=800&q=80",
-    tags: ["Penthouse", "Vue panoramique", "Luxe"],
+    tags: ["Penthouse", "Vue panoramique", "Moderne Mixé"],
     featured: false,
   },
   {
@@ -90,7 +90,7 @@ export const projects: Project[] = [
     location: "Centre-Ville, Tanger",
     year: "2023",
     description:
-      "Mise en scène professionnelle d'un espace de bureaux pour maximiser son attrait et sa valeur sur le marché immobilier.",
+      "Mise en scène d'un espace de bureaux avec des accents décoratifs traditionnels marocains pour valoriser son attrait sur le marché immobilier.",
     image:
       "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80",
     tags: ["Bureau", "Home staging", "Commercial"],
@@ -103,10 +103,10 @@ export const projects: Project[] = [
     location: "Tanger, Maroc",
     year: "2022",
     description:
-      "Rénovation chaleureuse et fonctionnelle d'une maison familiale alliant esthétisme et praticité du quotidien.",
+      "Rénovation chaleureuse d'une maison familiale puisant dans la décoration traditionnelle marocaine : couleurs terracotta, tissus brodés et mobilier artisanal pour une atmosphère conviviale et authentique.",
     image:
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&q=80",
-    tags: ["Familial", "Fonctionnel", "Chaleureux"],
+      "https://images.unsplash.com/photo-1553361371-9b22f78e8b1d?w=800&q=80",
+    tags: ["Familial", "Traditionnel", "Chaleureux"],
     featured: false,
   },
 ];
